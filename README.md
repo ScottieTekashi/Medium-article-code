@@ -6,5 +6,6 @@
 ###### 蒐集剛寫python時會遇到的問題,debug,環境不熟悉簡單的觀念耗費太多時間google,均紀錄於此
 ## simple pratice
 ###### 在Macro Program 中學以致用的小程式,由淺入深,從如何寫出猜數字遊戲到爬蟲到EDA資料分析與建模
-
+## Machine Learning Model
+###### 模型基礎知識練習
 
